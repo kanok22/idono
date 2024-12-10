@@ -1,6 +1,2 @@
-{
-    "authorized_users": {
-        "6FD9B4A": "distanceW",
-        "HWID2HERE": "lafamily.user2"
-    }
-}
+6FD9B4A distanceW
+HWID2HERE lafamily.user2
